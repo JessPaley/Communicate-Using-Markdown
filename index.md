@@ -6,4 +6,4 @@ favoriteAnimal = "cat"
 ```
 - [x] Feed the cat
 - [x] Pet the cat
-- [x] Love the cat
+- [ ] Acquire more cats
